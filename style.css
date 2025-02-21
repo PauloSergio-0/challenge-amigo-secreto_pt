@@ -23,6 +23,10 @@ body {
     align-items: center;
 }
 
+#avisos{
+    font-size: 22px;
+    color: #000;
+}
 .main-content {
     display: flex;
     flex-direction: column;
